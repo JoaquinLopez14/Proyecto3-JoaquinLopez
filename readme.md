@@ -16,7 +16,7 @@
 ## 1 - ***Instalación***
 #### 1.1 En tu MYSQL Workbench ejecuta el archivo "trailerflix.sql" que se encuentra en la carpeta *"conexion"*.
 
-#### 1.2 Luego crea un archivo llamado *".env"* en la carpeta raiz del proyecto con el siguiente codigo.
+#### 1.2 Luego crea un archivo llamado *".env"* en la carpeta raiz del proyecto con tu informacion local.
 ```javascript
     DB_SCHEMA = trailerflix
     DB_USER = root
