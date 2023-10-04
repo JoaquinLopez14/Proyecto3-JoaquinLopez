@@ -20,7 +20,7 @@
 ```javascript
     DB_SCHEMA = trailerflix
     DB_USER = root
-    DB_PASSWORD = conexluffy14
+    DB_PASSWORD = root
     DB_HOST = localhost
 ```
 
